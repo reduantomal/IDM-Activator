@@ -9,7 +9,7 @@
 ::   IDM Activator
 ::
 ::   Find me on:
-::         Github   : https://github.com/rohitabdullah
+::         Github   : https://github.com/rohitabdullah..
 ::         Telegram : https://t.me/iamanonymous_004
 ::         Facebook : https://facebok.com/rohit.abdullah.5
 ::         Instagram: https://instagram.com/rohit_abdullah.5
@@ -919,3 +919,4 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
+
